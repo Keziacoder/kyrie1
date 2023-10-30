@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+.banner{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#f6d594, #bea232);
+}
+.title h2{
+    margin-left: 60px;
+    padding-top: 30px;
+    
+}
+.banner p{
+    margin-left: 60px;
+    margin-top: 40px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner .title h2{
+    padding-top: 150px;
+}
+
+.navbar{
+    background-color: white;
+    width: 100%;
+    height: 60px;
+    margin-top: 130px;
+
+}
+
+.right{
+    margin-left: 200px;
+    font-size: 3px;
+    margin-top: -21px;
+}
+.social-media{
+    margin-left: 750px;
+    margin-top: -275px;
+    
+}
+.social-media i:hover{
+    color: #fff;
+}
+i{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.bttn button{
+    margin-left: 850px;
+    margin-top: -95px;
+    background-color: #c49a47;
+    border: 0;
+    outline: none;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bttn button :hover{
+    background: rgb(#fff);
+}
+
+
+
+
